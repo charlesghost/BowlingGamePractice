@@ -8,6 +8,7 @@ namespace BowlingGamePractice
 
 		    public Random Roll1 = new Random();
 		    public Random Roll2 = new Random();
+		    //public string GameStrike = "X";
         
         	public Dictionary<int, List<int>> FrameList = new Dictionary<int, List<int>>()
         		    {
@@ -47,12 +48,21 @@ namespace BowlingGamePractice
                 }
                
 
-        		public void GameTotal()
-            		{
-    			      double total = FrameList.Values.Sum(x => x.Sum());
-    			      Console.WriteLine($"Total Score: {total}");
+        	public void GameScoreTotal()
+            	{
+    			  double total = FrameList.Values.Sum(x => x.Sum());
+    			  Console.WriteLine($"Total Score: {total}");
             			
-            		}
+            	}
+            public void StrikeInGame()
+		        {
+			    if (Roll1.Next(0,10).Equals(10))
+    			{
+				    FrameList[1] = new List<int> { Roll1.Next(10, 10),Roll2.Next(0,0) };
+                
+    			}
+
+		        }
                  
         	}
         }

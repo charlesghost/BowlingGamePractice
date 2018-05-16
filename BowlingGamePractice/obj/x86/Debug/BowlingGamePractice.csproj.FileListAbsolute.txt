@@ -4,3 +4,9 @@
 /Users/tech-a10/Projects/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.csproj.CoreCompileInputs.cache
 /Users/tech-a10/Projects/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.exe
 /Users/tech-a10/Projects/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.pdb
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.csprojResolveAssemblyReference.cache
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.csproj.CoreCompileInputs.cache
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.exe
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/obj/x86/Debug/BowlingGamePractice.pdb
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/bin/Debug/BowlingGamePractice.exe
+/Users/tech-a10/Desktop/BowlingGamePractice/BowlingGamePractice/bin/Debug/BowlingGamePractice.pdb

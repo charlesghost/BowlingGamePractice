@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D71DC883-1BCF-4451-85BA-B11F6C262A84}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BowlingGamePractice/BowlingGame.cs">
+    <Files>
+      <File FileName="BowlingGamePractice/Program.cs" Line="1" Column="1" />
+      <File FileName="BowlingGamePractice/BowlingGame.cs" Line="55" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BowlingGamePractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

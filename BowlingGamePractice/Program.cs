@@ -9,8 +9,9 @@ namespace BowlingGamePractice
 			BowlingGame bowlingGame = new BowlingGame();
 
 			bowlingGame.GameRolls();
+			bowlingGame.StrikeInGame();
 			bowlingGame.GameScore();
-			bowlingGame.GameTotal();
+			bowlingGame.GameScoreTotal();
         }
 
     }
